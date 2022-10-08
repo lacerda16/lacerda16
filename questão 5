@@ -1,0 +1,20 @@
+import math
+
+medida = float(input(“Digite quantos metros quadrados: “))
+litros = medida / 6
+latas = math.ceil(litros / 18
+galões = math.ceil(litros / 3.6)
+preco _latas = latas * 80
+preco_galoes = galoes * 25
+combinação = (litros // 18) * 80 + math.ceil(((litros % 18) / 3.6)) * 25
+
+print(“o preco so com latas e:, preco_latas)
+print(“o preco so com galoes e:, preco_galoes)
+print(“o preco so com a combinacao e:”, combinacao)
+
+
+    
+              
+    
+
+        
